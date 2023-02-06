@@ -2,13 +2,13 @@
 ## Table des matières
 
 Probas
-- [Exo1](#p1)
-- [Exo2](#p2)
-- [Exo3](#p3)
-- [Exo4](#p4)
-- [Exo5](#p5)
-- [Exo6](#p6)
-- [Exo7](#p7)
+- [Probas Exo1](#p1)
+- [Probas Exo2](#p2)
+- [Probas Exo3](#p3)
+- [Probas Exo4](#p4)
+- [Probas Exo5](#p5)
+- [Probas Exo6](#p6)
+- [Probas Exo7](#p7)
 
 Suites
 - [Exo1](#s1)
@@ -21,7 +21,7 @@ Suites
 
 
 
-## Exo1
+## Probas Exo1
 
 Some text
 
