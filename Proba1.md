@@ -1,17 +1,34 @@
-On note $D$ l'événement "j'ai un dé pipé" et $S$ l'événement "j'obtiens un 6"
+
+## Table des matières
+
+Probas
+- [Exo1](#p1)
+- [Exo2](#p2)
+- [Exo3](#p3)
+- [Exo4](#p4)
+- [Exo5](#p5)
+- [Exo6](#p6)
+- [Exo7](#p7)
+
+Suites
+- [Exo1](#s1)
+- [Exo2](#s2)
+- [Exo3](#s3)
+- [Exo4](#s4)
+- [Exo5](#s5)
+- [Exo6](#s6)
+- [Exo7](#s7)
 
 
-$P(D|S) = \frac{P(D \cap S)}{P(S)} =  \frac{P(D)P(S|D)}{P(S)} = \frac{P(D)P(S|D)}{P(S|D)P(D) + P(S|D^c)P(D^c)}$
 
-On a : 
+## Exo1
 
-$P(D) = p$
+Some text
 
-$P(D^c) = 1-p$
+- Instruction 1
+- Instruction 2
+- Instruction 3
 
-$P(S|D) = 1/2$
+## Status
 
-$P(S|D^c) = 1/6$
-
-D'où la probabilité recherchée : $\frac{p/2}{p/2 + (1-p)/6} = \frac{3p}{2p+1}$  
-
+Here goes all the budgets
