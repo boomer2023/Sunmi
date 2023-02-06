@@ -31,8 +31,7 @@ Ainsi $$P(A_{p_1} \cap ... A_{p_m}) = P(A_{p_1...p_m}) = 1/(p_1...p_m) = P(A_{p_
 Les événements $A_{p_i}$ sont mutuellement indépendants entre eux.
 
 3) 
-$\begin{aligned}P(\text{k est premier avec n}) &= P((A_{p_1} \cup ... \cup A_{p_r})^c) \\ &= P(A_{p_1}^c) ... P(A_{p_r}^c) \\& = (1 - 1/p_1)...(1-1/p_r)\end{aligned}$
-Et $P(\text{k est premier avec n}) = card(\{\text{k, k est premier avec n}\})/n = \varphi(n)/n$
+$P(\text{k est premier avec n})$
 
 
 ## Exercice 3
